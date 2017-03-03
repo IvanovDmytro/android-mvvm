@@ -1,0 +1,26 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+*.iml
+
+# folder #
+/gen
+/out
+/bin
+/build
+*/build
+.idea
+/.gradle
+/tmp
+/captures
+
+# others #
+local.properties
+gradle.properties
+.DS_Store
+
+# keystore #
+keystore.props.file
+keystore
